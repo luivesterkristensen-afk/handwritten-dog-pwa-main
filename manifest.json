@@ -1,5 +1,7 @@
 {
   "name": "My PWA",
+  "start_url": "./",
+  "display": "standalone",
   "icons": [
     {
       "src": "assets/img/512.png",
